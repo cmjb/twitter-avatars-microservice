@@ -1,0 +1,7 @@
+This is a docker image that will load twitter profile images from a given user name.
+
+Expose port `8080` to get access to the `express` app. Then append a twitter name.
+
+For example: `http://localhost:8080/_ximf_` will get my current profile picture.
+
+This code is MIT licensed, and will most likely go unmaintained.
